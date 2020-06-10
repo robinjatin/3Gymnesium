@@ -2,7 +2,7 @@
 
 ## Features:
 
-* Our app is a place where you can get information about fitness and subscribe to our plans for beginners, intermediate and advanced levels.You can check about your BMR, various fitness gifs/videos, recipes, nutrition facts, supplement information and can chat to us via our chatbot.
+* Our app is a place where you can get information about fitness and subscribe to our plans for beginners, intermediate and advanced levels.You can check about your Basal Metabolic Rate(BMR), various fitness gifs/videos, recipes, nutrition facts, supplement information and can chat to us via our chatbot.
 
 ## Technologies used:
 
