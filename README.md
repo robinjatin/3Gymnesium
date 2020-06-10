@@ -26,7 +26,7 @@
 * Recipe API : https://recipe-puppy.p.rapidapi.com/
 * YouTube Search API: https://youtube-search1.p.rapidapi.com/
 * GIF Search API: https://giphy.p.rapidapi.com/
-* ChatBot: https://acobot-brainshop-ai-v1.p.rapidapi.com/
+* ChatBot API: https://acobot-brainshop-ai-v1.p.rapidapi.com/
 
 ## Other references:
 
